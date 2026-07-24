@@ -25,12 +25,12 @@ average_score = total_score / 3
 
 #Display the grade report
 print("\nGrade Report For:", user_name)
-print("--------------------------------")
-print(f"{assignment_name_1}: {assignment_grade_1}")
-print(f"{assignment_name_2}: {assignment_grade_2}")
-print(f"{assignment_name_3}: {assignment_grade_3}")
-print("--------------------------------")
-print(f"Total Score: {total_score:.2f}")
-print(f"Average Score: {average_score:.2f}")
+print("------------------------------------")
+print(f"{assignment_name_1:<20}: {assignment_grade_1:>6.2f}")
+print(f"{assignment_name_2:<20}: {assignment_grade_2:>6.2f}")
+print(f"{assignment_name_3:<20}: {assignment_grade_3:>6.2f}")
+print("------------------------------------")
+print(f"{'Total Score:':<20} {total_score:>6.2f}")
+print(f"{'Average Score:':<20} {average_score:>6.2f}")
 
 
