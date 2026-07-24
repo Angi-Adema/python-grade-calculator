@@ -1,3 +1,10 @@
+"""
+Grade Calculator program prompting the user to enter the student name,
+three assignment names, and their associated grades for the purpose of 
+calculating the total score as well as the average score and displaying 
+the results in a professional report.
+
+"""
 
 #Display a welcome message
 print("Welcome to the grade calculator!")
@@ -30,7 +37,7 @@ print(f"{assignment_name_1:<20}: {assignment_grade_1:>6.2f}")
 print(f"{assignment_name_2:<20}: {assignment_grade_2:>6.2f}")
 print(f"{assignment_name_3:<20}: {assignment_grade_3:>6.2f}")
 print("------------------------------------")
-print(f"{'Total Score:':<20} {total_score:>6.2f}")
-print(f"{'Average Score:':<20} {average_score:>6.2f}")
+print(f"{'Total Score':<20}: {total_score:>6.2f}")
+print(f"{'Average Score':<20}: {average_score:>6.2f}")
 
 
