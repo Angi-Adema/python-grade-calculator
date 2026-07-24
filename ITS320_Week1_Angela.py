@@ -43,12 +43,20 @@ print(f"{'Total Score':<20}: {total_score:>6.2f}")
 print(f"{'Average Score':<20}: {average_score:>6.2f}")
 
 
-"""
-REFERENCES
-1. GeeksforGeeks. (2025, August 14). "Multiline Comments in Python" Retrieved from https://www.geeksforgeeks.org/python/multiline-comments-in-python/
-2. GeeksforGeeks. (2025, April 28). "Python Escape Characters" Retrieved from https://www.geeksforgeeks.org/python/python-escape-characters/
-3. GeeksforGeeks. (2026, March 18). "String Formatting in Python" Retrieved from https://www.geeksforgeeks.org/python/string-formatting-in-python/
-4. GeeksforGeeks. (2025, July 15). "String Alignment in Python f-string" Retrieved from https://www.geeksforgeeks.org/python/string-alignment-in-python-f-string/
-5. Miller, B. (n.d.). "Programming in Python 3" zyBooks, a Wiley brand. Retrieved from Canvas https://www.zybooks.com/
+# REFERENCES
+# 1. GeeksforGeeks. (2025, August 14). "Multiline Comments in Python" 
+# https://www.geeksforgeeks.org/python/multiline-comments-in-python/
+#
+# 2. GeeksforGeeks. (2025, April 28). "Python Escape Characters" 
+# https://www.geeksforgeeks.org/python/python-escape-characters/
+#
+# 3. GeeksforGeeks. (2026, March 18). "String Formatting in Python" 
+# https://www.geeksforgeeks.org/python/string-formatting-in-python/
+#
+# 4. GeeksforGeeks. (2025, July 15). "String Alignment in Python f-string" 
+# https://www.geeksforgeeks.org/python/string-alignment-in-python-f-string/
+#
+# 5. Miller, B. (n.d.). "Programming in Python 3" zyBooks, a Wiley brand. 
+# Canvas https://www.zybooks.com/
 
-"""
+
