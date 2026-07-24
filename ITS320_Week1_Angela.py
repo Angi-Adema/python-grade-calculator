@@ -1,10 +1,10 @@
 """
 Student Grade Calculator 
 
-Program prompting the user to enter the student name,
-three assignment names, and their associated grades for the purpose of 
-calculating the total score as well as the average score. We then display 
-the results in a professional report.
+Program prompts the user to enter a student's name,
+three assignment names, and the corresponding grades. It calculates 
+the total and average scores then displays the results in a 
+formatted grade report.
 
 """
 
